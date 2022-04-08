@@ -1,6 +1,3 @@
-.App {
-  text-align: center;
-}
 
 .data{
   width: 80%;
@@ -10,4 +7,16 @@
 }
 #h1{
   background-color: aqua;
+}
+#formdata{
+  
+  width: 30%;
+  height: 340px;
+  margin: auto;
+  background-color: rgba(85, 253, 208, 0.763);
+}
+#da{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;  
 }
