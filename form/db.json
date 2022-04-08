@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Bheema",
+      "age": "23",
+      "dateofbirth": "1995-05-12",
+      "stateofresidence": "telangana",
+      "address": "vnagar",
+      "pincode": "500039",
+      "id": 1
+    },
+    {
+      "name": "Rama",
+      "age": "22",
+      "dateofbirth": "2022-03-30",
+      "stateofresidence": "telangana",
+      "address": "vnagar",
+      "pincode": "500039",
+      "id": 2
+    },
+    {
+      "name": "Jhon",
+      "age": "21",
+      "dateofbirth": "2022-03-29",
+      "stateofresidence": "telangana",
+      "address": "vnagar",
+      "pincode": "500039",
+      "id": 3
+    },
+    {
+      "name": "baily",
+      "age": "25",
+      "dateofbirth": "2022-03-30",
+      "stateofresidence": "MP",
+      "address": "sagar",
+      "pincode": "23231",
+      "id": 4
+    }
+  ]
+}

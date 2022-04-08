@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.data{
+  width: 80%;
+  height: 240px;
+  margin: auto;
+  border: 1px solid black;
+}
+#h1{
+  background-color: aqua;
+}
