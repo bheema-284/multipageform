@@ -9,9 +9,6 @@ export const LoginTwo = () => {
         address,
         pincode,handleSubmit, dispatch } = useContext(LoginContext);
   const navigate = useNavigate();
-//   if (!name || !age || dateofbirth) {
-//     navigate('/registration/one');
-//   }
   console.log(stateofresidence,
         address,
         pincode, dispatch);
