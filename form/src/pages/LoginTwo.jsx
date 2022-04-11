@@ -2,16 +2,8 @@ import { useNavigate } from 'react-router-dom';
 import { useContext } from 'react';
 import { LoginContext } from '../context/LoginContext';
 export const LoginTwo = () => {
-  const {
-    name,
-    age,
-    dateofbirth,
-    stateofresidence,
-    address,
-    pincode,
-    handleSubmit,
-    dispatch,
-  } = useContext(LoginContext);  
+  const { stateofresidence, address, pincode, handleSubmit, dispatch } =
+    useContext(LoginContext);  
   console.log(stateofresidence,
         address,
         pincode, dispatch);
